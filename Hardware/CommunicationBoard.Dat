@@ -1,0 +1,27 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~CommunicationBoard.PrjPcb|ReportField=ProjectFullPath~C:\Users\metek\OneDrive\Masaüstü\Yeni klasör\Dropbox\Avitek Teknoloji - Projeler\VALEN\YOLCU BİLGİLENDİRME EKRANI\hardware\Haberleşme Kartı\Project\CommunicationBoard\CommunicationBoard.PrjPcb|ReportField=Title~Bill of Materials For Project [CommunicationBoard.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~99|ReportField=ReportTime~16:34:14|ReportField=ReportDate~25.05.2020|ReportField=ReportDateTime~25.05.2020 16:34:14|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~25.05.2020|ReportField=CurrentTime~16:33:55|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\metek\OneDrive\Masaüstü\Yeni klasör\Dropbox\Avitek Teknoloji - Projeler\VALEN\YOLCU BİLGİLENDİRME EKRANI\hardware\Haberleşme Kartı\Project\CommunicationBoard\GSM1.SchDoc|ReportField=DocumentName~GSM1.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~17.04.2020|ReportField=Organization~|ReportField=ProjectName~CommunicationBoard.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~CommunicationBoard.PrjPcb|ReportField=DataSourceFullPath~C:\Users\metek\OneDrive\Masaüstü\Yeni klasör\Dropbox\Avitek Teknoloji - Projeler\VALEN\YOLCU BİLGİLENDİRME EKRANI\hardware\Haberleşme Kartı\Project\CommunicationBoard\CommunicationBoard.PrjPcb
+1|C0603|Ceramic Chip Capacitor - Standard|C1, C2, C3, C4, C5, C6, C9, C10, C11, C12, C13, C14, C15, C16, C17, C18, C19, C20, C21, C22, C23, C24, C25, C26, C27, C29, C30, C31, C33, C34, C35, C36, C37|C0603|C0603|33
+2|Tantal Cap D Case||C7, C8|Tantal Cap D Case|Tantal Cap D Case|2
+3|470uF D Case||C28, C32|470uF D Case|470uF D Case|2
+4|U.FL  R SMT||EXT_ANT|U.FL  R SMT|U.FL  R SMT|1
+5|LED SMD 0603 - YELLOW||GSM|LED SMD 0603 - YELLOW|LED SMD 0603 - YELLOW|1
+6|GSM ANTENNA||GSM_ANTENNA|GSM ANTENNA|GSM ANTENNA|1
+7|LED SMD 0603 - RED||POWER|LED SMD 0603 - RED|LED SMD 0603 - RED|1
+8|BC846ALT1|General Purpose Transistor NPN Silicon|Q1, Q2, Q3, Q4, Q5, Q6, Q7|BC846|BC846ALT1|7
+9|Res0603|Resistor|R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18, R19, R20, R21, R22, R23, R24, R25, R26, R27, R28, R29, R30, R31, R32, R33, R34|CC1608-0603|Res0603|34
+10|SWİTCH_SMD_TACT_6x3.6||RESET|SWİTCH_SMD_TACT_6X3.6|SWİTCH_SMD_TACT_6x3.6|1
+11|SLIDE SWITCH 3-PIN||S1|Slide Switch 3-Pin|SLIDE SWITCH 3-PIN|1
+12|1x4 2.54mm Header||SWD|1x4 2.54mm Header|1x4 2.54mm Header|1
+13|2x20 PIN HEADER MALE||Shield|2x20 PIN HEADER MALE|2x20 PIN HEADER MALE|1
+14|Sim Holder||Sim Holder|SIM HOLDER|Sim Holder|1
+15|BG96|Lte Cat.M1 Module For Global Sku|U1|QUECTEL_BG96|BG96|1
+16|STM32F401RC||U2|STM32F401RE|STM32F401RE|1
+17|Type C Usb||U3|Type C Usb|Type C Usb|1
+18|MIC29302WU||U4|MIC29302WU|MIC29302WU|1
+19|LD39150||U5|LD39150DT33-R|LD39150|1
+20|PL2303SA||U6|PL2302SA|PL2303SA|1
+21|CONN_USB_B||U7|CONN_USB_B|CONN_USB_B|1
+22|6x6 SMD Button||USER|6x6 Smd Button|6x6 SMD Button|1
+23|LED SMD 0603 - GREEN||USER|LED SMD 0603 - GREEN|LED SMD 0603 - GREEN|1
+24|7V16000016||Y1|7V16000016|7V16000016|1
+25|Crystal 32.768 MHz||Y2|Crystal 32.768 MHz|Crystal 32.768 MHz|1
+26|BZT52C5V1-7-F||ZD1|BZT52C5V1|BZT52C5V1-7-F|1
